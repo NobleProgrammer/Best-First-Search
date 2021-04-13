@@ -1,0 +1,21 @@
+Start
+7
+10
+A 3
+B 3
+C 4
+D 3
+E 5
+X 10
+Y 30
+A B
+A C
+B E
+B D
+C X
+C D
+D X
+E Y
+X E
+X Y
+END
